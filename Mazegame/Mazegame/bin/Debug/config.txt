@@ -1,0 +1,4 @@
+ui_assembly=MazeInterfaceImpl.dll
+ui=SimpleConsoleClient
+data_assembly=MazeDataImpl.dll
+data=HardCodedData
